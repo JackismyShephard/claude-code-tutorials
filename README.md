@@ -1,2 +1,2 @@
 # claude-code-tutorials
-Resources and tutorials on Claude Code
+Tutorials and guides for how to use Claude Code optimally. 
