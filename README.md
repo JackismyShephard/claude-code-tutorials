@@ -31,6 +31,42 @@ This project hosts a collection of tutorials and guides on how to use Claude Cod
 * [Claude code best practices](https://www.reddit.com/r/ClaudeAI/comments/1lbyyqh/claude_code_best_practices/)
 * [Claude Code Todo Management Setup Guide](https://docs.google.com/document/d/1PDkeau485hoopN53olIVb_o8YNRn6zJ2ragpNQ_Yq98/edit?tab=t.0)
 
+### Memory (CLAUDE.md) Files
+
+#### General
+
+* [claude-code-mcp-enhanced](https://github.com/grahama1970/claude-code-mcp-enhanced/blob/66328d6bcc960c81ff24f6213ce5614000858698/CLAUDE.md)
+ * Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.
+* [SteadyStart](https://github.com/steadycursor/steadystart/blob/main/CLAUDE.md)
+ * Clear and direct instructives about style, permissions, Claude's "role", communications, and documentation of Claude Code sessions for other team members to stay abreast.
+
+#### Language-Specific
+
+##### Python
+* [AWS MCP Server](https://github.com/alexei-led/aws-mcp-server/blob/main/CLAUDE.md)
+ * multiple Python environment setup options with detailed code style guidelines, comprehensive error handling recommendations, and security considerations for AWS CLI interactions.
+* [EDSL](https://github.com/expectedparrot/edsl/blob/main/CLAUDE.md)
+ * Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy.
+* [SPy](https://github.com/spylang/spy/blob/main/CLAUDE.md)
+ * Enforces strict coding conventions with comprehensive testing guidelines, multiple code compilation options, and backend-specific test decorators for targeted filtering.
+* [lamoom-python](https://github.com/LamoomAI/lamoom-python/blob/main/CLAUDE.md)
+ * Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.
+
+##### Java
+* [AI IntelliJ Plugin](https://github.com/didalgolab/ai-intellij-plugin/blob/main/CLAUDE.md)
+ * Provides comprehensive Gradle commands for IntelliJ plugin development with platform-specific coding patterns, detailed package structure guidelines, and clear internationalization standards.
+* [DroidconKotlin](https://github.com/touchlab/DroidconKotlin/blob/main/CLAUDE.md)
+ * Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.
+##### Rust
+* [HASH](https://github.com/hashintel/hash/blob/main/CLAUDE.md)
+ * Features comprehensive repository structure breakdown with strong emphasis on coding standards, detailed Rust documentation guidelines, and systematic PR review process.
+##### Clojure
+* [Metabase](https://github.com/metabase/metabase/blob/master/CLAUDE.md)
+ * Details workflow for REPL-driven development in Clojure/ClojureScript with emphasis on incremental development, testing, and step-by-step approach for feature implementation. 
+##### Go
+* [TPL](https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md)
+ * Details Go project conventions with comprehensive error handling recommendations, table-driven testing approach guidelines, and modernization suggestions for latest Go features.
+
 ### Commands
 
 * [Blogging Platform Instructions by cloudartisan](https://github.com/cloudartisan/cloudartisan.github.io/tree/d1ed4928b1326dcf658991e0b83387455d1b5004/.claude/commands)
