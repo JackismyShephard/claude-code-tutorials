@@ -4,9 +4,9 @@ This project hosts a collection of tutorials and guides on how to use Claude Cod
 
 ## My stuff
 
-* I have aggregated tips, tricks and guidelines from various sources (Here)[https://github.com/JackismyShephard/claude-code-tutorials/blob/main/GUIDELINES.md]
-* I have collected various memory (`Claude.md`) files (Here)[https://github.com/JackismyShephard/claude-code-tutorials/tree/main/memory]
-* I have collected various prompt commands (slash commands) (Here)[https://github.com/JackismyShephard/claude-code-tutorials/tree/main/commands]
+* I have aggregated tips, tricks and guidelines from various sources [Here](https://github.com/JackismyShephard/claude-code-tutorials/blob/main/GUIDELINES.md)
+* I have collected various memory (`Claude.md`) files [Here](https://github.com/JackismyShephard/claude-code-tutorials/tree/main/memory)
+* I have collected various prompt commands (slash commands) [Here](https://github.com/JackismyShephard/claude-code-tutorials/tree/main/commands)
 
 ## External Resources
 
