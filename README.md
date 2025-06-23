@@ -31,13 +31,6 @@ This project hosts a collection of tutorials and guides on how to use Claude Cod
 * [Claude code best practices](https://www.reddit.com/r/ClaudeAI/comments/1lbyyqh/claude_code_best_practices/)
 * [Claude Code Todo Management Setup Guide](https://docs.google.com/document/d/1PDkeau485hoopN53olIVb_o8YNRn6zJ2ragpNQ_Yq98/edit?tab=t.0)
 
-### Commands
-
-* [Blogging Platform Instructions by cloudartisan](https://github.com/cloudartisan/cloudartisan.github.io/tree/d1ed4928b1326dcf658991e0b83387455d1b5004/.claude/commands)
-
-* [Context Priming by disler](https://github.com/disler/just-prompt/tree/main/.claude/commands)
-  * Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.
-
 ### MCP & Extensions
 
 * [BMAD-CLAUDE-CODE](https://github.com/cabinlab/BMAD-CLAUDE-CODE/)
